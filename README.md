@@ -7,14 +7,6 @@ A full-stack fundraising application that allows users to sign up, log in, view 
 
 ---
 
-## 📸 Screenshots
-
-| Login Page | Dashboard | Leaderboard |
-|------------|-----------|-------------|
-| ![Login](client/src/assets/screens/login.png) | ![Dashboard](client/src/assets/screens/dashboard.png) | ![Leaderboard](client/src/assets/screens/leaderboard.png) |
-
----
-
 ## 📁 Tech Stack
 
 ### Frontend
